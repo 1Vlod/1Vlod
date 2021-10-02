@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlod
 - 👀 I’m interested in Node.JS and other backend technologies 
-- 🌱 I’m currently learning RabbitMQ and other things related to microservice architecture
+- 🌱 I’m currently learning RabbitMQ and other things related to microservices architecture
 - 📫 If I'm interesting for you, please find me in Telegram @Vlod_R
 - 📕 Started studying programming in February 2020
 - 💻 Started working in January 2021
